@@ -1,0 +1,1 @@
+This bug occurs when using the Expo SDK's `Camera` component with certain Android devices.  The camera preview fails to render correctly, displaying only a black screen or a distorted image. This problem is intermittent and doesn't always reproduce, making it difficult to debug.
